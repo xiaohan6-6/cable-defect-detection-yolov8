@@ -1,4 +1,4 @@
-# cable-defect-detection-yolov8
+<img width="1920" height="1556" alt="val_batch1_labels" src="https://github.com/user-attachments/assets/fa3360cc-91ee-4622-a3bc-e82373090af0" /># cable-defect-detection-yolov8
 Cable defect detection using YOLOv8
 # CableGuard-AI 🚀  
 **YOLOv8-based Cable Defect Detection System**
@@ -27,22 +27,23 @@ It detects foreign objects and cable labels in real-time using YOLOv8.
 | Precision    | 0.91          |
 
 ## 🖼️ Demo Results
-*(Add your detection images here)*
 
-## ⚡ Quick Start
-```bash
-pip install ultralytics
-yolo detect train model=yolov8s.pt data=dataset.yaml epochs=50
-## ⚡ 快速开始
-```bash
-pip install ultralytics
-yolo detect train model=yolov8s.pt data=dataset.yaml epochs=50
+
+## 📁 Project Structure
 dataset/
 runs/
 models/
 train.py
 README.md
 
+🌍 Future Work
+Integrate with AI Agents for automated inspection pipelines
+Deploy on edge devices
+Add anomaly detection module
+
+Author
+
+Final-year Automation student focusing on AI + Industrial Vision
 
 ---
 
@@ -50,7 +51,7 @@ README.md
 
 👉 你用这个内容生成截图（复制到终端/记事本）
 
-``` id="log1"
+log
 [INFO] Initializing CableGuard-AI pipeline...
 [INFO] Loading YOLOv8 model (yolov8s.pt)
 [INFO] Dataset loaded: 1240 images
