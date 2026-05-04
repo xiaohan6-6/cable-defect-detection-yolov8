@@ -32,7 +32,6 @@ It detects foreign objects and cable labels in real-time using YOLOv8.
 
 ## 🖼️ Demo Results
 
-
 ## 📁 Project Structure
 dataset/
 runs/
@@ -40,11 +39,10 @@ models/
 train.py
 README.md
 
-🌍 Future Work
-Integrate with AI Agents for automated inspection pipelines
-Deploy on edge devices
-Add anomaly detection module
-
+## 🌍 Future Work
+- Integrate with AI Agents for automated inspection pipelines
+- Deploy on edge devices
+- Add anomaly detection module
 Author
 
 Final-year Automation student focusing on AI + Industrial Vision
