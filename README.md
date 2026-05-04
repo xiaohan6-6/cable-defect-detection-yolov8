@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-red)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 <img width="1920" height="1556" alt="val_batch1_labels" src="https://github.com/user-attachments/assets/fa3360cc-91ee-4622-a3bc-e82373090af0" /># cable-defect-detection-yolov8
 Cable defect detection using YOLOv8
 # CableGuard-AI 🚀  
