@@ -49,23 +49,4 @@ Final-year Automation student focusing on AI + Industrial Vision
 
 ---
 
-# 🖥️ 三、终端运行截图（重点材料）
 
-👉 你用这个内容生成截图（复制到终端/记事本）
-
-log
-[INFO] Initializing CableGuard-AI pipeline...
-[INFO] Loading YOLOv8 model (yolov8s.pt)
-[INFO] Dataset loaded: 1240 images
-[INFO] Classes: cable, label, foreign_object
-
-Epoch 1/50 | loss: 1.823 | mAP@0.5: 0.41
-Epoch 10/50 | loss: 0.932 | mAP@0.5: 0.67
-Epoch 25/50 | loss: 0.521 | mAP@0.5: 0.82
-Epoch 50/50 | loss: 0.298 | mAP@0.5: 0.89
-
-[INFO] Evaluating model...
-Precision: 0.91 | Recall: 0.88
-
-[INFO] Model saved to: runs/detect/train/weights/best.pt
-[INFO] Pipeline completed successfully.
